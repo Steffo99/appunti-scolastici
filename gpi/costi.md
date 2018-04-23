@@ -39,9 +39,9 @@ Per determinare il costo di un prodotto, ho bisogno di tre elementi:
 2. Le voci di costo che voglio determinare
 3. Dati sui costi ottenuti in precedenza da un prodotto simile
 
-### Dati sui costi precedenti (non ho troppo capito)
-- **Costi storici**: vengono rilevati i costi "istantanei" del prodotto
-- **Costi standard**: viene stabilito un valore sul costo, e in seguito si misura se si è riusciti a stare sotto il costo previsto
+### Dati sui costi precedenti
+- **Costi storici**: vengono rilevati i costi solo quando il prodotto è già stato fatto
+- **Costi standard**: viene stabilito in anticipo il costo confrontando le spese di realizzazione di prodotti simili
 - **Costi normalizzati**: vengono usati entrambi gli altri due metodi, applicando quello più utile
 
 Con l'`Informatica`, è possibile rilevare i costi in modo molto più dettagliato. 
@@ -50,3 +50,13 @@ I sistemi che gestiscono questi rilevamenti sono detti **ERP**.
 ### Voci di costo da determinare
 - **Direct costing**: il costo considerato è il costo pieno industriale; i costi di periodo vengono trascurati
 - **Full costing**: il costo considerato è il costo pieno aziendale; sono inclusi tutti i costi, anche quelli di periodo
+- **Cycle costing**: vengono considerate come costo anche le spese di smaltimento 
+
+## Il portafoglio applicativo
+Il **portafoglio applicativo** è composto dai software che hanno accesso al database dell'ERP. 
+Non è obbligatorio che tutti gli appartenenti a un'azienda utilizzino tutti gli stessi software.
+
+I software del portafoglio possono essere inseriti in tre categorie:
+- **Portafoglio direzionale**: supporto alla pianificazione e alle risorse dell'azienda
+- **Portafoglio istituzionale**: supporto amministrativo, risorse umane, contabilità
+- **Portafoglio operativo**:; supporto ai processi primari
