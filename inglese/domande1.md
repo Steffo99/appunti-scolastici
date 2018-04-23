@@ -1,4 +1,4 @@
-# Sum up in 10 lines how the Internet developed
+### Sum up in 10 lines how the Internet developed
 The Internet originally was a decentralized military network called
 ARPANET that interconnected military sites across the USA.
 
@@ -7,8 +7,10 @@ Its development began in the 1960s, during the Cold War, in order to have a func
 The network was later connected to all the universities in the US, thanks to the new TCP/IP protocol suite.
 
 The network kept expanding: multiple countries joined it, and thanks to the creation of the World Wide Web by Tim Berners-Lee a whole world of new opportunities was opened and led to the spread of the Internet in both homes and companies.
+
 ---
-# Sum up in 10 lines how the Internet works
+
+### Sum up in 10 lines how the Internet works
 The Internet is composed of millions of devices called routers whose task is 
 directing the data towards its destination.
 
